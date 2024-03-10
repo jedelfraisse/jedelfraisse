@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, My name is Jonathan.  I am a computer geek. 👋
 
+- 🔭 I’m currently working on helping with different projects.
+- 👯 I’m looking to collaborate on mojoPortal, TagzApp and more.
 <!--
 **jedelfraisse/jedelfraisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
